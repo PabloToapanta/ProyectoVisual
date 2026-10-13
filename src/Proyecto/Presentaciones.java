@@ -33,13 +33,17 @@ public class Presentaciones {
     public static void imprimirNombreAnahi(){
         System.out.println("Les saluda Anahi Molina");
     }
-
+    
+    public static void imprimirNombreLeslie(){
+        System.out.println("Les saluda Leslie Coello");
+    }
     public static void main(String[] args) {
         imprimirNombrePablo();
         imprimirNombreEdwin();
         imprimirNombreKatherine();
         imprimirNombreShirley();
         imprimirNombreAnahi();
+        imprimirNombreLeslie();
     }
     
     
