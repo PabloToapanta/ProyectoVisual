@@ -23,5 +23,8 @@ public class ClaseDefensa {
         public static void imprimirNombreAnahi(){
             System.out.println("Les saluda Anahi");
         }
+        public static void imprimirNombreDayana(){
+            System.out.println("Hola");
+        }
     
 }
