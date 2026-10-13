@@ -17,10 +17,15 @@ public class Presentaciones {
         System.out.println("Les saluda Pablo Toapanta");
     }
     
+    public static void imprimirNombreEdwin(){
+        System.out.println("Les saluda Edwin Caraguay");
+    }
     
     public static void main(String[] args) {
         imprimirNombrePablo();
+        imprimirNombreEdwin();
         
     }
+    
     
 }
