@@ -25,10 +25,16 @@ public class Presentaciones {
         System.out.println("Les saluda Katherine Moyolema");
     }
     
+    // Metodo Shirley Amaguaña
+    public static void imprimirNombreShirley(){
+        System.out.println("Les saluda Shirley Amaguana");
+    }
+
     public static void main(String[] args) {
         imprimirNombrePablo();
         imprimirNombreEdwin();
         imprimirNombreKatherine();
+        imprimirNombreShirley();
         
     }
     
