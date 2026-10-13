@@ -9,5 +9,9 @@ package Proyecto;
  * @author pablo
  */
 public class ClaseDefensa {
+        public static void imprimirNombreLeslie(){
+        System.out.println("Les saluda Leslie Coello");
+    }
+        
     
 }
