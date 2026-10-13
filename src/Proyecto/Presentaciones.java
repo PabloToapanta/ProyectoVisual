@@ -12,9 +12,14 @@ public class Presentaciones {
     
     // INGRESAR SUS METODOS
     
+    // Metodo Pablo Toapanta
+    public static void imprimirNombrePablo(){
+        System.out.println("Les saluda Pablo Toapanta");
+    }
     
     
     public static void main(String[] args) {
+        imprimirNombrePablo();
         
     }
     
