@@ -21,9 +21,14 @@ public class Presentaciones {
         System.out.println("Les saluda Edwin Caraguay");
     }
     
+    public static void imprimirNombreKatherine(){
+        System.out.println("Les saluda Katherine Moyolema");
+    }
+    
     public static void main(String[] args) {
         imprimirNombrePablo();
         imprimirNombreEdwin();
+        imprimirNombreKatherine();
         
     }
     
