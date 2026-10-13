@@ -12,6 +12,9 @@ public class ClaseDefensa {
         public static void imprimirNombreLeslie(){
         System.out.println("Les saluda Leslie Coello");
     }
+        public static void imprimirNombreShirley(){
+        System.out.println("Les saluda Shirley Amaguana");
+    }
         
     
 }
