@@ -20,6 +20,8 @@ public class ClaseDefensa {
         public static void imprimirNombreEdwin(){
         System.out.println("Les saluda Edwin");
         }
-        
+        public static void imprimirNombreAnahi(){
+            System.out.println("Les saluda Anahi");
+        }
     
 }
